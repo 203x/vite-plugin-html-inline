@@ -1,0 +1,26 @@
+{
+  "name": "vite-plugin-html-inline",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/203x/vite-plugin-html-inline.git"
+  },
+  "keywords": [
+    "include",
+    "inject"
+  ],
+  "author": "203X",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/203x/vite-plugin-html-inline/issues"
+  },
+  "homepage": "https://github.com/203x/vite-plugin-html-inline#readme",
+  "dependencies": {
+    "node-html-parser": "^6.1.4"
+  }
+}
