@@ -32,4 +32,4 @@ const htmlinline = () => {
   }
 }
 
-export default htmlinline
+export { htmlinline as default }
