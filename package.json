@@ -20,7 +20,7 @@
     "url": "https://github.com/203x/vite-plugin-html-inline/issues"
   },
   "homepage": "https://github.com/203x/vite-plugin-html-inline#readme",
-  "dependencies": {
+  "peerDependencies": {
     "node-html-parser": "^6.1.4"
   }
 }
